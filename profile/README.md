@@ -6,7 +6,7 @@
   Building modern, scalable tools & products for the web.
 </p>
 <p align="center">
-  <a href="https://github.com/projoss-dev"><img src="https://img.shields.io/github/followers/projoss?label=Follow&style=social" alt="Follow on GitHub" /></a>
+  <a href="https://github.com/projoss-dev"><img src="https://img.shields.io/github/followers/projoss-dev?label=Follow&style=social" alt="Follow on GitHub" /></a>
 </p>
 
 ---
